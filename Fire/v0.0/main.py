@@ -38,7 +38,7 @@ class FlameSimulation(QMainWindow):
         painter.setBrush(color)
 
         # Получаем текущую высоту пламени в зависимости от времени
-        pulse_amplitude = 30  # Амплитуда пульсации
+        pulse_amplitude = 3000  # Амплитуда пульсации
         pulse_frequency = 2 * math.pi  # Частота пульсации
         flame_height = self.flame_height + pulse_amplitude * math.sin(pulse_frequency * self.time)
 
