@@ -2,8 +2,8 @@ PWD /Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/task.tex
-OUTPUT task.log
+INPUT /Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex
+OUTPUT info.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
@@ -37,7 +37,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cmap/t2a.cmap
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cmap/t2a.cmap
-OUTPUT task.pdf
+OUTPUT info.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cmap/t2a.cmap
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
@@ -355,10 +355,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfad
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./task.aux
-INPUT ./task.aux
-INPUT task.aux
-OUTPUT task.aux
+INPUT ./info.aux
+INPUT ./info.aux
+INPUT info.aux
+OUTPUT info.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -367,13 +367,13 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.st
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./task.out
-INPUT ./task.out
-INPUT task.out
-INPUT task.out
-INPUT ./task.out
-INPUT ./task.out
-OUTPUT task.out
+INPUT ./info.out
+INPUT ./info.out
+INPUT info.out
+INPUT info.out
+INPUT ./info.out
+INPUT ./info.out
+OUTPUT info.out
 INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm
 INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx2074.tfm
 INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
@@ -427,13 +427,14 @@ INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/
 INPUT /Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-INPUT task.aux
-INPUT ./task.out
-INPUT ./task.out
+INPUT info.aux
+INPUT ./info.out
+INPUT ./info.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb

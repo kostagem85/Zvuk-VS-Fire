@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1724321177.47533 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/task.tex" "task.pdf" "task" 1724321183.3122 0
-  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/task.tex" 1724321176.89556 10065 613b4d2cdc0c6328fb2522cf5cb902b7 ""
+["pdflatex"] 1724330670.64122 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" "info.pdf" "info" 1724330672.52805 0
+  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" 1724330670.2934 9700 2af78139ab3bee828817544ec6d9728d ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1720644840.85301 3336 216c27338cb0f11f0d2908d69ce3de23 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1720644898.29904 3308 eee81981029f67083258db36df06e523 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1720644864.89715 3304 6a543c07045572737981351171e0505e ""
@@ -30,9 +30,10 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1248133631 31764 459c573c03a4949a528c2cc7f557e217 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1215737283 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1215737283 135942 859a90cad7494a1e79c94baf546d7de5 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb" 1215737283 140194 627cc7f36c05b80e25d178974ccb3442 ""
@@ -238,12 +239,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720644736.72703 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720644411 8221430 5ad3f14b08a432cfdb42ccef5b0d6899 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "task.aux" 1724321182.78301 1830 a12fe29c7ef3628df3c69d0453e413f9 "pdflatex"
-  "task.out" 1724321182.7857 2005 da8504c2362a6ab3c856504880e7642a "pdflatex"
-  "task.tex" 1724321176.89556 10065 613b4d2cdc0c6328fb2522cf5cb902b7 ""
+  "info.aux" 1724330672.27175 1566 3981d159b1168302ecc70bb2c8d5e427 "pdflatex"
+  "info.out" 1724330672.27331 1082 ff1879dade1200f4ff26c23a8429b3dc "pdflatex"
+  "info.tex" 1724330670.2934 9700 2af78139ab3bee828817544ec6d9728d ""
   (generated)
-  "task.aux"
-  "task.log"
-  "task.out"
-  "task.pdf"
+  "info.aux"
+  "info.log"
+  "info.out"
+  "info.pdf"
   (rewritten before read)
