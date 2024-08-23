@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex litobzor"] 0 "litobzor.aux" "litobzor.bbl" "litobzor" 1724415377.47607 0
+["bibtex litobzor"] 0 "litobzor.aux" "litobzor.bbl" "litobzor" 1724448195.11267 0
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "literature.bib" 0 -1 0 ""
   "litobzor.aux" 0 -1 0 "pdflatex"
@@ -7,8 +7,8 @@
   "litobzor.bbl"
   "litobzor.blg"
   (rewritten before read)
-["pdflatex"] 1724415375.92562 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/litobzor.tex" "litobzor.pdf" "litobzor" 1724415377.47635 0
-  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/litobzor.tex" 1724415373.97074 9408 83ef43892ff34896b808b0082fe8c4cf ""
+["pdflatex"] 1724448193.12787 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/litobzor.tex" "litobzor.pdf" "litobzor" 1724448195.11297 0
+  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/litobzor.tex" 1724448190.69865 8803 c9586cc8ced153854be6d4154cfdb803 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1720644840.85301 3336 216c27338cb0f11f0d2908d69ce3de23 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1720644898.29904 3308 eee81981029f67083258db36df06e523 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1720644864.89715 3304 6a543c07045572737981351171e0505e ""
@@ -95,10 +95,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720644736.72703 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720644411 8221430 5ad3f14b08a432cfdb42ccef5b0d6899 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "litobzor.aux" 1724415376.93724 1908 804e1a46dbb413ebed0a76b4b4518057 "pdflatex"
+  "litobzor.aux" 1724448194.26115 1480 471d1b1c1633b3635a212692b7d6a55d "pdflatex"
   "litobzor.bbl" 0 -1 0 "bibtex litobzor"
-  "litobzor.out" 1724415376.93848 2145 ff21d574ee31406e06b5d34528986152 "pdflatex"
-  "litobzor.tex" 1724415373.97074 9408 83ef43892ff34896b808b0082fe8c4cf ""
+  "litobzor.out" 1724448194.26239 1531 a0e03349e409d56c1c6f71cf414025b3 "pdflatex"
+  "litobzor.tex" 1724448190.69865 8803 c9586cc8ced153854be6d4154cfdb803 ""
   (generated)
   "litobzor.aux"
   "litobzor.log"
