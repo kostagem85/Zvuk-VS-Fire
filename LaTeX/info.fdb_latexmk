@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1724330670.64122 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" "info.pdf" "info" 1724330672.52805 0
-  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" 1724330670.2934 9700 2af78139ab3bee828817544ec6d9728d ""
+["pdflatex"] 1724400687.34585 "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" "info.pdf" "info" 1724400689.6064 0
+  "/Users/konstantinkoval/Documents/ТЮФ/task12 /LaTeX/info.tex" 1724400684.04132 9700 2af78139ab3bee828817544ec6d9728d ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1720644840.85301 3336 216c27338cb0f11f0d2908d69ce3de23 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1720644898.29904 3308 eee81981029f67083258db36df06e523 ""
   "/Users/konstantinkoval/Library/texlive/2024/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1720644864.89715 3304 6a543c07045572737981351171e0505e ""
@@ -239,9 +239,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720644736.72703 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720644411 8221430 5ad3f14b08a432cfdb42ccef5b0d6899 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "info.aux" 1724330672.27175 1566 3981d159b1168302ecc70bb2c8d5e427 "pdflatex"
-  "info.out" 1724330672.27331 1082 ff1879dade1200f4ff26c23a8429b3dc "pdflatex"
-  "info.tex" 1724330670.2934 9700 2af78139ab3bee828817544ec6d9728d ""
+  "info.aux" 1724400689.35927 1566 3981d159b1168302ecc70bb2c8d5e427 "pdflatex"
+  "info.out" 1724400689.3606 1082 ff1879dade1200f4ff26c23a8429b3dc "pdflatex"
+  "info.tex" 1724400684.04132 9700 2af78139ab3bee828817544ec6d9728d ""
   (generated)
   "info.aux"
   "info.log"
